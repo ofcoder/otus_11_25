@@ -18,8 +18,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/main/include/prolog_be
 
 use Bitrix\Main\Entity\Base;
 use Bitrix\Main\Application;
-use Otus\Orm\BookTable;
-use Otus\Orm\AuthorTable;
+use Models\Cusyom\BookTable;
+use Models\Custom\AuthorTable;
 
 $entities = [
     AuthorTable::class,
