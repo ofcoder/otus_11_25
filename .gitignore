@@ -78,3 +78,6 @@
 /workgroups/
 vendor/
 local/logs/
+/bitrixsetup.php
+/restore.php
+/phpinfo.php
