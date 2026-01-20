@@ -1,6 +1,6 @@
 <?php
 
-namespace Otus\Orm;
+namespace Models\Custom;
 
 use Bitrix\Main\ORM\Data\DataManager;
 use Bitrix\Main\ORM\Fields\IntegerField;

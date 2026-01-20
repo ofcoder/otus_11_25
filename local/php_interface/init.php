@@ -40,6 +40,11 @@ foreach( [
      */
      __DIR__ . '/../App/autoload.php',
 
+     /**
+      * Events
+      */
+     __DIR__ . '/events.php',
+
     ]
     as $filePath )
 {
